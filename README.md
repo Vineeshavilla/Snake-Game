@@ -11,4 +11,4 @@ Customizable settings (speed, grid size, colors).
 
 Score tracking.
      
- Perfect for beginners looking to learn Python or for anyone who loves classic games!
+ "Perfect for beginners looking to learn Python or for anyone who loves classic games!"
