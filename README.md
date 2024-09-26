@@ -1,5 +1,5 @@
 # Snake-Game
-Snake Game - Classic Arcade Fun in Python 🐍🎮
+Snake Game -  Classic Arcade Fun in Python 🐍🎮
 
 This repository contains a classic Snake Game implemented in Python. 
 
